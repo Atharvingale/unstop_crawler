@@ -1,0 +1,11 @@
+{
+  "name": "hackathon-crawler",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "crawl:unstop": "node crawlers/unstopCrawler.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
